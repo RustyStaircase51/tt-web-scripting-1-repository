@@ -1,8 +1,10 @@
-##Site Description
+READ ME multipagewebsite
+	
+	##Site Description
 
-Music Exposure is a mock music review/blog/recommendation website created using CSS and HTML.
-This website is built to adapt to mobile, computer, and different window sizes.  
-This website features 3 pages.
+	Music Exposure is a mock music review/blog/recommendation website created using CSS and HTML.
+	This website is built to adapt to mobile, computer, and different window sizes.  
+	This website features 3 pages.
 
 	The "Home" page has a little welcome message and shows the "User Weekly Music Pick"
 		This is currently displaying "DANCE..." by Slayyyter
@@ -18,12 +20,14 @@ This website features 3 pages.
 			The form uses minlength and required to ensure the user fills out every field.
 			
 	
-##List of Pages
+	##List of Pages
 
-*Home
-*Music
-*Contact Us
+	*Home
+	*Music
+	*Contact Us
 
 
-##Screenshots
+	##Screenshots
+	
+
 
