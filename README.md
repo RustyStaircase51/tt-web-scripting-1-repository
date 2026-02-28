@@ -20,7 +20,7 @@ READ ME multipagewebsite
 			The form uses minlength and required to ensure the user fills out every field.
 			
 	
-	##List of Pages
+<h2>List of Pages</h2>
 
 	*Home
 	*Music
@@ -28,14 +28,10 @@ READ ME multipagewebsite
 
 
 	##Screenshots
-	![contact us screenshot 1](images/contactusscreenshot_1.png)
-	![contact us screenshot 2](images/Contact%20Us%20Screenshot%20#2.png)
-	![home screenshot 1](images/homescreenshot_1.png)
-	![home screenshot 2](images/Home%20Screenshot%20#2.png)
-	![music screenshot 1](images/homescreenshot%20_1.png)
-	![music screenshot 2](images/Music%20Screenshot%20#2.png)
 
-
-
-
-
+![Contact Us Screenshot 1](images/contactusscreenshot_1.png)
+![Contact Us Screenshot 2](<images/Contact Us Screenshot #2.png>)
+![Home Screenshot 1](<images/homescreenshot _1.png>)
+![Home Screenshot 2](<images/Home Screenshot #2.png>)
+![Music Screenshot 1](<images/musicscreenshot _1.png>)
+![Music Screenshot 2](<images/Music Screenshot #2.png>)
