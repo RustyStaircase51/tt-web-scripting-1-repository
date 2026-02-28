@@ -29,13 +29,15 @@ READ ME multipagewebsite
 
 	##Screenshots
 
-	<img src="images/contactusscreenshot_1.png" width="200">
+	<img src="https://github.com/RustyStaircase51/tt-web-scripting-1-repository/blob/multipagewebsite/images/Contact%20Us%20Screenshot%20%232.png" width="200">
+	
 	![contact us screenshot 1](images/contactusscreenshot_1.png?raw=true)
 	![contact us screenshot 2](images/Contact%20Us%20Screenshot%20#2.png)
 	![home screenshot 1](images/homescreenshot_1.png)
 	![home screenshot 2](images/Home%20Screenshot%20#2.png)
 	![music screenshot 1](images/homescreenshot%20_1.png)
 	![music screenshot 2](images/Music%20Screenshot%20#2.png)
+
 
 
 
