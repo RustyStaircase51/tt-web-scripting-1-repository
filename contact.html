@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+	<meta name="referrer" content="strict-origin-when-cross-origin" />
+	<title>Music Exposure: Contact Us</title>
+</head>
+<body>
+
+
+<header>
+		<h1>Music Exposure</h1>
+</header>
+
+
+<nav>
+	<a class="hyperlink" href="index.html">&nbsp;Home&nbsp;</a>
+	<a class="hyperlink" href= "music.html">&nbsp;Music&nbsp;</a>
+	<a class="hyperlink" href="contact.html">&nbsp;Contact Us&nbsp;</a>
+</nav>
+
+
+<main class="container">
+	<br>
+	<h2>Contact Form<h2>
+	<p>Do you have an idea for next week's song choice or wanna chat? Fill out our contact form!</p>
+
+	
+	
+	<form action="action_page.php" method="POST">
+		<div>
+			<label for="name">Name: </label>
+			<input type="text" id="name" name="name" placeholder="Melody" required minlength="2">
+		</div>
+		<br>
+		
+		<div>
+			<label for="email">Email: </label>
+			<input type="email" id="email" name="email" placeholder="melody2001@hotmail.com" required minlength="5">
+		</div>
+		<br>
+		
+		<div>
+			<fieldset>
+					<legend>Contact Reason</legend>
+					
+					<input type="radio" id="musicrec" name="reason" required>
+					<label for="musicrec">Weekly User Pick</label><br>
+
+					<input type="radio" id="chat" name="reason" required>
+					<label for="idea">Chat</label><br>
+					
+					<input type="radio" id="other" name="reason" required>
+					<label for="other">Other</label><br>
+			</fieldset>	
+		</div>
+		<br>
+		
+		<div>
+			<label for="message">Message:</label>
+			<input type="textarea" id="message" name="message" required minlength="10">
+		</div>
+		<br>
+		
+		<div>
+		<input type="submit" value="Send Message">
+		</div>
+		
+	</form>
+
+<a class="hyperlink" href="index.html#user">Check out the user weekly pick!</a>
+</main>
+
+
+<footer>
+	<br>
+    <a class="hyperlink" href=https://www.facebook.com/p/Torin-Tish-61569167272404/> &copy; Music Exposure, 2026</a>
+</footer>
+
+</body>
+</html>
